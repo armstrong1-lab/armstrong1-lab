@@ -26,7 +26,8 @@ I am an **aspiring cybersecurity professional and networking enthusiast**, curre
 | **Security Information & Event Management (SIEM)** | Microsoft Sentinel SIEM Setup |
 | **Cloud Computing**                           | Google Cloud Digital Leader Training |
 | **System Administration**                     | Azure AD & Microsoft Sentinel |
-| **Network Configuration with Cisco Packet Tracer** | Packet Tracer Lab |
+| **Network Configuration with Cisco Packet Tracer** | [Packet Tracer Lab](https://github.com/armstrong1-lab/packet-tracer-lab) |
+ |
 
 ## 📡 Simple Network Setup with Cisco Packet Tracer
 
