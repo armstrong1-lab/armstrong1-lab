@@ -74,7 +74,16 @@ View of the network interface card connection.
 4️⃣ Open the **Command Prompt** on PC1 and test connectivity using:
    ```bash
    ping 192.168.1.10
+✅ Results
+ping 192.168.1.10 returns 4 successful replies, confirming network connectivity.
+📂 Files
+📌 Simple-Network.pkt → The Packet Tracer lab file.
+📌 Screenshots of configuration steps.
 
+🎯 Learning Outcomes
+✔ Understanding of basic networking concepts.
+✔ Hands-on experience with IP addressing and network connectivity testing.
+✔ Familiarity with Packet Tracer tools and command-line testing (ping, ipconfig).
 ---
 
 ## 🚀 Tools
